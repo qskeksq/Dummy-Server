@@ -1,8 +1,8 @@
-# Dummy-Server
+# Dummy Server
 서버코드보다 자바스크립트 코드 사용법을 공부해본다
 
 
-## Dummy Database
+### Dummy Database
 
 ```javaScript
 var DummyDB = function(){
@@ -52,7 +52,7 @@ var DummyDB = function(){
 ```
 
 
-## CRUD
+### CRUD
 
 - create
     ```javaScript
